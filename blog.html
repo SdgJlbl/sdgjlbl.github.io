@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<ul>
+  {% for post in site.posts%}
+    <article>
+      <h4>{{ post.date | date: "%b %-d, %Y" }}</h4>
+      <h3 class="title" > <a href="{{post.url}}">{{post.title}}</a></h3>
+      <p> {{ post.excerpt }} </p>
+    </article>
+
+  {% endfor %}
+</ul>

@@ -8,16 +8,55 @@
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
   </head>
   <body>
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container has-text-centered">
+        <h1 class="website-title title">
+          <a href="/">Website title</a>
+        </h1>
+        <h2 class="website-subtitle subtitle">
+          Hero subtitle
+        </h2>
+      </div>
+    </div>
+    <nav class="navbar" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="navbarBasicExample" class="navbar-menu">
+        <div class="navbar-start navbar-center">
+          <a class="navbar-item" href="/">About me</a>
+          <a class="navbar-item" href="/blog.html">Blog</a>
+          <a class="navbar-item" href="/talks.html">Talks & workshops</a>
+          <a class="navbar-item" href="/open-source.html">Open source</a>
+        </div>
+      </div>
+    </nav>
+  </section>
   <section class="section">
     <div class="container">
-      <h1 class="website-title title is-1">
-        Hello World
-      </h1>
-      <p class="subtitle">
-        My first website with <strong>Bulma</strong>!
-      </p>
+      {{ content }}
     </div>
+
   </section>
-  {{ content }}
+
+
+  <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        This website uses <a href="https://bulma.io">Bulma</a>,
+        <a href="https://jekyllrb.com/">Jekyll</a> and
+        <a href="https://pages.github.com/">GitHub Pages</a>.
+      </p>
+      <p>Font families are BowFolk, Josefin and Overlock.</p>
+    </div>
+  </footer>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="/main.js"></script>
   </body>
 </html>

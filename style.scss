@@ -5,8 +5,30 @@
 
 // Bulma variables from :https://bulma.io/documentation/customize/variables/
 
-.website-title {
+.hero h1.website-title {
   font-family: "BowFolk-Hairline", Helvetica, Arial, sans-serif;
+  font-size: 8rem;
+  font-weight: 300;
+  color: black;
+  letter-spacing: -1px;
+  a {
+    color: black;
+  }
 }
 
+$family-primary: "Overlock", sans-serif;
+$body-size: 20px;
+$link: black;
+
 @import "bulma";
+
+
+.title, .subtitle {
+  font-family: "Josefin Slab", serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.navbar-center {
+  margin: auto;
+}
