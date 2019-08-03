@@ -1,0 +1,12 @@
+---
+# Main scss file.
+---
+@import "fonts";
+
+// Bulma variables from :https://bulma.io/documentation/customize/variables/
+
+.website-title {
+  font-family: "BowFolk-Hairline", Helvetica, Arial, sans-serif;
+}
+
+@import "bulma";
