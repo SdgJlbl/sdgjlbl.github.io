@@ -35,9 +35,23 @@ plugins:
 
 collections:
   talks:
-    layout: talk
-  posts:
-    layout: post
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "talks"
+    values:
+      layout: "talk"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

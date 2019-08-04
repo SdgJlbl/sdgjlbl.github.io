@@ -6,7 +6,7 @@
 // Bulma variables from :https://bulma.io/documentation/customize/variables/
 
 .hero h1.website-title {
-  font-family: "BowFolk-Hairline", Helvetica, Arial, sans-serif;
+  font-family: "BowFolk-Hairline", "Josefin Slab", serif;
   font-size: 8rem;
   font-weight: 300;
   color: black;
@@ -16,17 +16,49 @@
   }
 }
 
+.hero h3.website-title {
+  font-family: "BowFolk-Book-Pro", "Josefin Slab", serif;
+  font-size: 1rem;
+  color: black;
+  letter-spacing: -1px;
+}
+
+.iframe-wrapper {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+.iframe-wrapper iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0; top: 0;
+}
+
 $family-primary: "Overlock", sans-serif;
 $body-size: 20px;
 $link: black;
 
+
 @import "bulma";
 
+p a {
+  font-weight: bold;
+}
 
 .title, .subtitle {
   font-family: "Josefin Slab", serif;
   font-size: 1.5rem;
   font-weight: 600;
+}
+
+.content {
+  h1, h2, h3, h4, h5 {
+    font-family: "Josefin Slab", serif;
+  }
 }
 
 .navbar-center {
