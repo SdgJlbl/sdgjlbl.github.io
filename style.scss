@@ -7,7 +7,7 @@
 
 .hero h1.website-title {
   font-family: "BowFolk-Hairline", "Josefin Slab", serif;
-  font-size: 8rem;
+  font-size: calc(64px + (160 - 64) * ((100vw - 300px) / (1600 - 300)));
   font-weight: 300;
   color: black;
   letter-spacing: -1px;
@@ -16,11 +16,15 @@
   }
 }
 
+.hero h2.website-subtitle {
+  font-family: "Josefin Slab", serif;
+  font-size: 1.7rem;
+}
+
 .hero h3.website-title {
   font-family: "BowFolk-Book-Pro", "Josefin Slab", serif;
   font-size: 1rem;
   color: black;
-  letter-spacing: -1px;
 }
 
 .iframe-wrapper {
