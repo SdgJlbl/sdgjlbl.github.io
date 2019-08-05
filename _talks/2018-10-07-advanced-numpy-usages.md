@@ -20,6 +20,6 @@ ufuncs and strides.
 <div class="iframe-wrapper">
 <iframe 
     title="PyConFr slides" frameborder="0" 
-    src="//sdg.jlbl.net/talks/NumPy/presentation.html">
+    src="//sdg.jlbl.net/slides/NumPy/presentation.html">
 </iframe>
 </div>

@@ -26,6 +26,6 @@ without specific technical knowledge.
 <div class="iframe-wrapper">
 <iframe 
     title="EuroPython slides" frameborder="0" 
-    src="http://sdg.jlbl.net/talks/Data%20Science%20and%20Ethics/presentation.html">
+    src="//sdg.jlbl.net/slides/Data%20Science%20and%20Ethics/presentation.html">
 </iframe>
 </div>

@@ -36,7 +36,6 @@ plugins:
 collections:
   talks:
     output: true
-    permalink: /:collection/:path/
 
 defaults:
   - scope:
