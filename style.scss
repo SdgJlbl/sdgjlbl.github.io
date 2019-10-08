@@ -80,6 +80,11 @@ p a {
     margin-top: 0em;
   }
 
+  .content ul.nobullet {
+    list-style-type: none;
+    font-size: inherit;
+  }
+
   p:not(:last-child) {
     margin-bottom: 0;
     margin-top: 0;
