@@ -24,8 +24,8 @@ without specific technical knowledge.
 </div>
 
 <div class="iframe-wrapper">
-<iframe 
-    title="EuroPython slides" frameborder="0" 
-    src="//sdg.jlbl.net/slides/Data%20Science%20and%20Ethics/presentation.html">
+<iframe
+    title="EuroPython slides" frameborder="0"
+    src="//sdg.jlbl.net/slides/data-science-and-ethics/index.html">
 </iframe>
 </div>

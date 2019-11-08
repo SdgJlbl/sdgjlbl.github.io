@@ -10,8 +10,8 @@ This talk aims at presenting a few tips and tricks to ensure privacy when workin
 open research questions. No silver bullet here, but hopefully a step in the right direction.
 
 <div class="iframe-wrapper">
-<iframe 
-    title="PyConDE slides" frameborder="0" 
-    src="//sdg.jlbl.net/slides/text_privacy/presentation.html">
+<iframe
+    title="PyConDE slides" frameborder="0"
+    src="//sdg.jlbl.net/slides/text-privacy/index.html">
 </iframe>
 </div>
