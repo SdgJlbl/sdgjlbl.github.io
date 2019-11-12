@@ -18,8 +18,8 @@ ufuncs and strides.
 </div>
 
 <div class="iframe-wrapper">
-<iframe 
-    title="PyConFr slides" frameborder="0" 
-    src="//sdg.jlbl.net/slides/NumPy/presentation.html">
+<iframe
+    title="PyConFr slides" frameborder="0"
+    src="//sdg.jlbl.net/slides/advanced-numpy-usage/index.html">
 </iframe>
 </div>
