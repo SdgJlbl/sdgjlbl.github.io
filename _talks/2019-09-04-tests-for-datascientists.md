@@ -18,8 +18,14 @@ in a Machine Learning project.
 (Tests on real data are also really important but they are not the main purpose of this talk.)  
 
 <div class="iframe-wrapper">
-<iframe
-    title="EuroSciPy slides" frameborder="0"
-    src="//sdg.jlbl.net/slides/tests-for-datascientist/index.html">
+<iframe src="https://www.youtube.com/embed/8ujjMzXI78A" 
+    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+     allowfullscreen></iframe>
+</div>
+
+<div class="iframe-wrapper">
+<iframe 
+    title="EuroSciPy slides" frameborder="0" 
+    src="//sdg.jlbl.net/slides/tests_for_datascientist/index.html">
 </iframe>
 </div>
