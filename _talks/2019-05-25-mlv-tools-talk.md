@@ -23,6 +23,6 @@ path to production. We are thrilled to present our project and we hope to spark 
 <div class="iframe-wrapper">
 <iframe 
     title="PyConFr slides" frameborder="0" 
-    src="https://peopledoc.github.io/mlv-tools-tutorial/talks/pyData/presentation.html">
+    src="https://peopledoc.github.io/mlvtools-tutorial/talks/pyData/presentation.html">
 </iframe>
 </div>
