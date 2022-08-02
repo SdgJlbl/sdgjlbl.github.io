@@ -4,7 +4,7 @@
 
 - `docker compose up --build`
 - Head to http://127.0.0.1:4000
-- Auto-reload is enabled, so the page should reload after a file save.
+- Auto-reload is enabled, so the page should reload after a file save (after about 4s).
 
 ## Update dependencies
 
