@@ -63,6 +63,20 @@ p a {
   h1, h2, h3, h4, h5 {
     font-family: "Josefin Slab", serif;
   }
+  h3:not(:first-child) {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+  }
+  h4 {
+    margin-top: 1em;
+    margin-bottom: 0.3em;
+  }
+  article {
+    padding-top: 0.5rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+  }
 }
 
 .navbar-center {
