@@ -14,6 +14,6 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 
-gem "webrick", "~> 1.7"
+gem "webrick"
 
-gem "faraday-retry", "~> 2.0"
+gem "faraday-retry"
