@@ -3,7 +3,7 @@ title:  "My favorite talks of PyData Amsterdam 2019"
 ---
 
 Last May, I was lucky to attend PyData Amsterdam 2019, and even had the opportunity to 
-[present a tutorial](_talks/2019-05-10-mlv-tools-workshop.md) on Friday. 
+[present a tutorial](/talks/2019-05-10-mlv-tools-workshop.html) on Friday. 
 
 It was my first time in Amsterdam, the city is really beautiful and the organization of the conference was top-notch. 
 The quality of the talks and tutorials was very high too, and it all contributed to three awesome days. 

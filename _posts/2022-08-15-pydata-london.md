@@ -6,7 +6,7 @@ In-person conferences are coming back in 2022! I had been meaning to attend PyDa
 finally got the opportunity this year. The venue is great, nearby the Tower of London, offering us a magnificent view over the Thames 
 while nibbling scones between talks.
 
-I also had the great pleasure to give a [talk](_talks/2022-06-18-off-with-their-ios.md) at the conference, covering best 
+I also had the great pleasure to give a [talk](/talks/2022-06-18-off-with-their-ios.html) at the conference, covering best 
 architecture practices for handling I/Os. 
 
 Here are some of my highlights for the conference.
