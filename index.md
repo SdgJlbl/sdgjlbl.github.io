@@ -14,5 +14,4 @@ I attend and speak at local meetups and tech conferences, see the
 [talks](/talks.html) section for details. I'm also an
 [open source](/open-source.html) contributor.
 
-I'm currently based in Poitiers, France. In my free time, I practice horseback archery at
-international level.
+I'm currently based in Poitiers, France. 

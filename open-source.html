@@ -2,14 +2,30 @@
 layout: default
 ---
 
-<h3> MLV-tools</h3>
+<h3>Substra</h3>
+
+<p><a href="//github.com/Substra" target="_blank" rel="noopener noreferrer">Substra</a> is a Federated Learning framework, built for cross-silo use cases.</p>
+
+<p>Substra was created to enable federated learning scenarios in the cancer treatment research, allowing multiple hospitals to cooperate in building Machine Learning models while keeping their sensitive data private. It can be used in other similar setups where a few big actors want to run algorithms on each other's data without accessing the data themselves.</p>
+
+<p>Substra is a Python/Django + Go + React application, deployed on a network of connected Kubernetes clusters. It's a toolbox providing solutions for all sorts of problems one may have when developing such applications: from sharing the training code via Docker images, to validating identities between clusters using certificates authorities and mTLS, etc. It powers the substrafl library which provides ready-to-use abstractions for implementing cutting-edge Machine Learning algorithms in a federated context.</p>
+
+<p>Substra is a member of the Linux Foundation for Artificial Intelligence.</p>
+
+<p>You can find the documentation <a href="//docs.substra.org/en/stable/" target="_blank" rel="noopener noreferrer">here</a>.</p>
+
+<p>I joined the Substra project in 2023 as part of my work at Owkin, and contributed to its maintenance and its improvement since then.</p>
+
+<h3>MLV-tools (deprecated)</h3>
+
+<p><em>MLV-tools has been deprecated in 2021, following the significant improvements brought by DVC 1.0.</em></p>
 
 <p>MLV-tools is a toolbox to help with versioning and reproducibility of Machine Learning experiments.
 Its main features include:
 <ul>
-    <li><em>a command to transform Jupyter Notebooks in parametrable and executable Python scripts,</em>
+    <li><em>a command to transform Jupyter Notebooks in parameterizable and executable Python scripts,</em>
     allowing for easy functional testing and keeping a unique source of truth from exploration to production to debugging</li>
-    <li><em>a layer on <a href="//dvc.org" target="_blank" rel="noopener noreferrer">Data Version Control</a></em>, to harnest the best of this powerful tool while
+    <li><em>a layer on <a href="//dvc.org" target="_blank" rel="noopener noreferrer">Data Version Control</a></em>, to harness the best of this powerful tool while
     removing most of the tediousness and the risk of inconsistencies</li>
 </ul></p>
 
